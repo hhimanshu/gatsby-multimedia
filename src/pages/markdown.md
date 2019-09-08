@@ -24,7 +24,17 @@ A lot of this has been learned from [here](https://using-remark.gatsbyjs.org/hel
 ![mp4](https://imgur.com/download/uFWiyfz)
 
 ## Embed Tweet
-TBD
+
+`oembed: https://twitter.com/bonsaiilabs/status/1170000240843378690`
+
+## Embed Instagram
+
+`oembed: https://www.instagram.com/p/B2BDJV1llEe/`
+
+### Embed Vimeo  
+
+`video: https://vimeo.com/42672205`
+
 
 ## List
 1. First ordered list item
@@ -57,3 +67,8 @@ The Horizontal Line Above and Below
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+
+---
+Embedded tweet!
+
+`oembed: https://twitter.com/raae/status/1047849320865775617`
